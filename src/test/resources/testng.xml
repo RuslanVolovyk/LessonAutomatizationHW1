@@ -1,0 +1,11 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AllTest" verbose="2">
+
+    <test name="Chrome browser">
+        <classes>
+            <class name="automation.tests.MyFirstTestClass"/>
+        </classes>
+    </test>
+
+</suite>
